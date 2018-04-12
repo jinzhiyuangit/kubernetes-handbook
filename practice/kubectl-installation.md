@@ -1,5 +1,5 @@
 # 安装kubectl命令行工具
-
+ node节点和master节点都需要安装
 本文档介绍下载和配置 kubernetes 集群命令行工具 kubelet 的步骤。
 
 ## 下载 kubectl
